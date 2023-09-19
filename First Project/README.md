@@ -5,9 +5,9 @@ Then, according to the entered university name and field, we search in the datas
 In the next step, we give these keywords to www.gomoonbeam.com, which is a writing assistant, to generate the motivation letter for us.<br>
 
 ## First Phase : Crawling
-In this phase we have to crawl the considerable website using Selenium or beautiful soap.
+In this phase we have to crawl the considerable website using Selenium or beautiful soap. The codes are [Here](https://github.com/Snaseri2001/Data-Mining-/blob/main/First%20Project/ai.py)
 
 ## Secind Phase : Preprocessing 
 In this phase we have to implement Text Preprocessing & keyword extraction, Text cleaning, Stop word removal, Tokenization etc.<br>
 Next, Have a column called "extracted_keywords" and put the keywords you extracted for each string in it. Then draw the word cloud of this column.<br>
-After pre-processing, a code should be written that, by taking the name of the university and the desired field, will return a number of words related to that field to the user.
+After pre-processing, a code should be written that, by taking the name of the university and the desired field, will return a number of words related to that field to the user. Codes are [here.](https://github.com/Snaseri2001/Data-Mining-/blob/main/First%20Project/Preprocessing.ipynb)
