@@ -2,9 +2,9 @@
 The selected dataset is related to the records of a criminal event reporting system, which includes a set of reduced fields focusing on recording the type of incident as well as the time and place of its occurrence.<br>
 ## First Phase : Preprocessing 
 In this phase we have to :
-  - [] Handle the missing values.
-  - [] For numerical data, outliers have to be identified and eliminated.
-  - [] If necessary, data reductin has to be applied.
+  -  Handle the missing values.
+  -  For numerical data, outliers have to be identified and eliminated.
+  -  If necessary, data reductin has to be applied.
 
 Some statistical measures have to be employed.
 Final codes are exist [here.](https://github.com/Snaseri2001/Data-Mining-/blob/main/Second%20Project/Preprocessing.ipynb)
